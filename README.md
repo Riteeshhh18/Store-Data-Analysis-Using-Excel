@@ -65,10 +65,8 @@ To analyze Vrinda Store's data and generate valuable business insights by creati
 > *(You can insert screenshots in the repository and link them like below)*
 
 - **Dashboard View:**
-![Dashboard](./screenshots/dashboard.png)
+[![Dashboard](./screenshots/dashboard.png)](https://github.com/Riteeshhh18/Store-Data-Analysis-Using-Excel/blob/1164456f6be4acb07c9b842560d3f8eea285ecfc/Screenshot%202025-06-10%20134210.png)
 
-- **Pivot Table Sample:**
-![Pivot Table](./screenshots/pivot-table.png)
 
 
 ## Simple  Insights
